@@ -1,0 +1,22 @@
+body {
+    font-size: 12px;
+    width: 960px;
+    margin: 0 auto;
+
+}
+div.container {
+    width: 100%;
+}
+
+form {
+    width: 400px;
+}
+
+label {
+    width: 100%;
+    float: left;
+}
+
+div.ui-state-error ul {
+    list-style: none;
+}
